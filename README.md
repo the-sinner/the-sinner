@@ -7,6 +7,7 @@
 - 📫 How to reach me: shalabhagarwal1024@gmail.com
 - 😄 Pronouns: he/him
 
+[LinkedIn](https://www.linkedin.com/in/shalabh-agarwal-79a326171/)
 
 <!--
 **the-sinner/the-sinner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

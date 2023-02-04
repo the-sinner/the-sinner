@@ -2,8 +2,6 @@
 
 
 - 🔭 I’m currently working on building basic projects using qiskit
-- 🌱 I’m currently learning Quantum Computing using Qiskit
-- 👯 I’m looking to collaborate on qiskit machine learning
 - 📫 How to reach me: shalabhagarwal1024@gmail.com
 - 😄 Pronouns: he/him
 

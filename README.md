@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on building basic projects using qiskit
+- 🔭 I’m currently learning Java and Web Development
+- 💻 Building small web dev projects
+- ✍️ Exploring various frameworks such as Svelte, React, Nextjs, HTMX, Spring Boot, Node and Express
 - 📫 How to reach me: shalabhagarwal1024@gmail.com
 - 😄 Pronouns: he/him
 

@@ -7,8 +7,8 @@
 - 📫 How to reach me: shalabhagarwal1024@gmail.com
 - 😄 Pronouns: he/him
 
-<a href="https://www.linkedin.com/in/shalabh-agarwal-79a326171/" target="blank">
-  <img                                                                             src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" height="30" width="30" />
+<a href="https://www.linkedin.com/in/shalabh-agarwal1024/" target="blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" height="30" width="30" />
 </a>
 
 <!--
